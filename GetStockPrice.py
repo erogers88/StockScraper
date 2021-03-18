@@ -1,6 +1,8 @@
 import urllib.request
 from html.parser import HTMLParser
 
+#Test comment for commit to network drive remote
+
 marketwatch_base_url = "https://www.marketwatch.com/investing/Fund/"
 
 def GetStockPrice(ticker_name):
